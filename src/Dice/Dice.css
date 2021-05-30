@@ -1,0 +1,7 @@
+.Dice-Die {
+  color: purple;
+  font-size: 100px;
+  display: inline-block;
+  margin: 20px;
+  animation: shake 0.5s infinite;
+}

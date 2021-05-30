@@ -1,0 +1,18 @@
+.Game-Button {
+  font-size: 20px;
+  width: 200px;
+  padding: 5px;
+  border-radius: 50px;
+  color: white;
+  background-color: purple;
+  transition: 0.4s;
+}
+
+.Game-Button:hover {
+  color: purple;
+  background-color: white;
+}
+
+.Game {
+  margin-top: 50px;
+}
